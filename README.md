@@ -1,4 +1,3 @@
-
 # Looking for you big break?
 
 ## Do you have a good grasp of web front-end fundamentals?
@@ -29,3 +28,10 @@ Working in the office is required.
 Hours between 8am and 5:30pm.
 
 We will be flexible on hours and location after you've proven your responsibility.
+
+
+![LOF.Services, LLC](img/LOFLOGO-alt.svg "Logo Title Text 1")
+LOF.SERVICES, LLC
+207 North Benton Street, Woodstock IL 60098
+815.263.5628
+info@lofservices.com
