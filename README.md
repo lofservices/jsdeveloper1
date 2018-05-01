@@ -1,4 +1,4 @@
-# Looking for you big break?
+# Looking for your big break?
 
 Do you have a good grasp of web front-end fundamentals? | Do you think about usability when you interact with technology? | Are you eager to grow in the field you love by working hard?
 :---:|:---:|:---:
@@ -6,7 +6,7 @@ Do you have a good grasp of web front-end fundamentals? | Do you think about usa
 
 ## Local Javascript Developer Needed
 * Harden your skills with javascript.
-* Learn the tools of the trade (Git, NPM, Docker).
+* Learn the tools of the trade (Angular, Git, NPM, Docker).
 * Gain experience building real software in a small development team.
 * Work on the historic Woodstock square.
 * No professional experience required. Just a few projects that thoroughly demonstrate your skills.
