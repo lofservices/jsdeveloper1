@@ -22,6 +22,10 @@ We are currently searching for an eager junior developer that is ready to be imm
 
 **An ideal candidate is motivated to learn every day, eager to earn greater responsibilities, and excited to build a great software company with their work.**
 
+<br>
+<br>
+<br>
+
 ### Responsibilities
 * Create and modify software workflows by assembling AngularJS components.
 * Build new AngularJS components as needed.
