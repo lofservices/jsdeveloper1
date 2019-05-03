@@ -45,8 +45,8 @@ We are currently searching for an eager junior developer that is ready to be imm
 * College Degrees
 
 ### Compensation
-* $20 an hour
-* 20-40 hours a week
+* $20+ an hour 
+* 20+ hours a week
 
 ### Location 
 * 207 North Benton Street, Woodstock IL
