@@ -22,6 +22,7 @@ We are currently searching for an eager junior developer that is ready to be imm
 
 **An ideal candidate is motivated to learn every day, eager to earn greater responsibilities, and excited to build a great software company with their work.**
 
+<br />
 
 ### Responsibilities
 * Create and modify software workflows by assembling AngularJS components.
@@ -54,8 +55,4 @@ We are currently searching for an eager junior developer that is ready to be imm
 <br />
 <img src="img/LOFLOGO-alt.svg" width="250px" alt="LOF LOGO" />
 
-LOF.SERVICES, LLC
-
-207 North Benton Street, Woodstock IL 60098
-
-815.263.5628 - info@lofservices.com
+LOF.SERVICES, LLC | 207 North Benton Street, Woodstock IL 60098 | 815.263.5628 - info@lofservices.com
